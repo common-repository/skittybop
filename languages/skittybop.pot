@@ -1,0 +1,122 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Skittybop 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/skittybop\n"
+"POT-Creation-Date: 2024-03-11 12:51+0200\n"
+"PO-Revision-Date: 2024-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+#: includes/skittybop-ajax.php:402 skittybop.php:301
+msgid "Pending"
+msgstr ""
+
+#: includes/skittybop-ajax.php:403 skittybop.php:302
+msgid "Accepted"
+msgstr ""
+
+#: includes/skittybop-ajax.php:404 skittybop.php:303
+msgid "Canceled"
+msgstr ""
+
+#: includes/skittybop-ajax.php:405 skittybop.php:304
+msgid "Failed"
+msgstr ""
+
+#: includes/skittybop-ajax.php:406 skittybop.php:305
+msgid "Rejected"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: skittybop.php:64 skittybop.php:412
+msgid "Skittybop"
+msgstr ""
+
+#: skittybop.php:306
+msgid "Pop Out"
+msgstr ""
+
+#: skittybop.php:415 templates/operators.php:2
+msgid "Operators"
+msgstr ""
+
+#: skittybop.php:466
+msgid "Please wait for the video call to begin."
+msgstr ""
+
+#: skittybop.php:468 skittybop.php:494
+msgid "Cancel"
+msgstr ""
+
+#: skittybop.php:473
+msgid "You have an incoming video call."
+msgstr ""
+
+#: skittybop.php:475
+msgid "Reject"
+msgstr ""
+
+#: skittybop.php:476
+msgid "Accept"
+msgstr ""
+
+#: skittybop.php:485
+msgid "The video call is no longer available."
+msgstr ""
+
+#: skittybop.php:487 skittybop.php:502
+msgid "Close"
+msgstr ""
+
+#: skittybop.php:492
+msgid ""
+"Are you sure you want to proceed with deleting the selected video calls?"
+msgstr ""
+
+#: skittybop.php:495
+msgid "Confirm"
+msgstr ""
+
+#: skittybop.php:500
+msgid "Sorry, no operators are available right now. Please try again later."
+msgstr ""
+
+#: templates/history.php:2
+msgid "History"
+msgstr ""
+
+#: templates/history.php:12 templates/history.php:26
+msgid "#"
+msgstr ""
+
+#: templates/history.php:13 templates/history.php:27 templates/operators.php:9
+#: templates/operators.php:16
+msgid "Operator"
+msgstr ""
+
+#: templates/history.php:14 templates/history.php:28 templates/operators.php:10
+#: templates/operators.php:17
+msgid "Status"
+msgstr ""
+
+#: templates/history.php:15 templates/history.php:29
+msgid "Room"
+msgstr ""
+
+#: templates/history.php:16 templates/history.php:30
+msgid "Started"
+msgstr ""
+
+#: templates/history.php:17 templates/history.php:31
+msgid "Duration"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Adds video calls to WordPress!"
+msgstr ""
